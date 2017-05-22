@@ -1,0 +1,92 @@
+[
+{
+"chapterID": "1103",
+"chapterName": "必修五",
+"sub": [
+{
+"chapterID": "1104",
+"chapterName": "第一单元",
+"sub": [
+{
+"chapterID": "1105",
+"chapterName": "1、沁园春 长沙"
+},
+{
+"chapterID": "1106",
+"chapterName": "2、离骚"
+}
+]
+},
+{
+"chapterID": "1107",
+"chapterName": "第二单元",
+"sub": [
+{
+"chapterID": "1108",
+"chapterName": "3、孔雀东南飞"
+},
+{
+"chapterID": "1109",
+"chapterName": "4、罗密欧与朱丽叶"
+}
+]
+},
+{
+"chapterID": "1113",
+"chapterName": "第三单元"
+}
+]
+},
+{
+"chapterID": "1088",
+"chapterName": "必修四",
+"sub": [
+{
+"chapterID": "1089",
+"chapterName": "第一章",
+"sub": [
+{
+"chapterID": "1090",
+"chapterName": "1、宋词二首"
+},
+{
+"chapterID": "1091",
+"chapterName": "2、六国论"
+},
+{
+"chapterID": "1092",
+"chapterName": "3、阿房宫赋"
+}
+]
+},
+{
+"chapterID": "1093",
+"chapterName": "第二章",
+"sub": [
+{
+"chapterID": "1094",
+"chapterName": "4、滕王阁序"
+},
+{
+"chapterID": "1095",
+"chapterName": "5、米洛斯的维纳斯"
+}
+]
+},
+{
+"chapterID": "1097",
+"chapterName": "第三章",
+"sub": [
+{
+"chapterID": "1098",
+"chapterName": "6、林黛玉进贾府"
+},
+{
+"chapterID": "1099",
+"chapterName": "7、雷雨"
+}
+]
+}
+]
+}
+]
